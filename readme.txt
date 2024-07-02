@@ -1,1 +1,1 @@
-https://katarzator.github.io/1.4/
+https://katarzator.github.io/1.5/
